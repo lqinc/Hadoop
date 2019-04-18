@@ -23,12 +23,3 @@ extra:
       link: 'https://lqinc.github.io/Hadoop'
     - type: 'book'
       link: 'https://lqinc.github.io/Hadoop'
-
-extra_css:
-  - 'css/katex.css'
-  - 'https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css'
-
-extra_javascript:
-  - 'js/katex.js'
-  - 'https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js'
-  - 'https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js'
