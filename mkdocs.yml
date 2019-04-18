@@ -8,11 +8,20 @@ repo_url: https://github.com/lqinc/Hadoop
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2019 lqinc'
+copyright: 'Copyright &copy; 2018 - 2019 lqinc'
 
 # Configuration
 theme:
   name: 'material'
+  custom_dir: 'custom/'
+  palette:
+    primary: 'deep-purple'
+    accent: 'deep-purple'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo:
+    icon: 'import_contacts'
 
 # Customization
 extra:
