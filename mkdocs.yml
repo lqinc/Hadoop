@@ -1,0 +1,34 @@
+site_name: Hadoop文档
+site_author: lqinc
+site_url: https://lqinc.github.io/Hadoop
+
+# Repository
+repo_name: lqinc/Hadoop
+repo_url: https://github.com/lqinc/Hadoop
+edit_uri: ""
+
+# Copyright
+copyright: 'Copyright &copy; 2019 lqinc'
+
+# Configuration
+theme:
+  name: 'material'
+
+# Customization
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/lqinc'
+    - type: 'quote-left'
+      link: 'https://lqinc.github.io/Hadoop'
+    - type: 'book'
+      link: 'https://lqinc.github.io/Hadoop'
+
+extra_css:
+  - 'css/katex.css'
+  - 'https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css'
+
+extra_javascript:
+  - 'js/katex.js'
+  - 'https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js'
+  - 'https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js'
