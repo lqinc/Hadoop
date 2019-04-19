@@ -22,6 +22,8 @@ theme:
     code: 'Roboto Mono'
   logo:
     icon: 'import_contacts'
+  feature:
+    tabs: true
 
 # Customization
 extra:
@@ -32,3 +34,14 @@ extra:
       link: 'https://lqinc.github.io/Hadoop'
     - type: 'book'
       link: 'https://lqinc.github.io/Hadoop'
+
+# Page tree
+nav:
+  - About: 
+    - Site: index.md
+  - Color: 
+    - Color: color.md
+  - Debug:
+    - Console: debug/日志级别.md
+  - Test:
+    - MR: test/Hadoop 测试.md
